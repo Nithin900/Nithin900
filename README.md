@@ -3,8 +3,7 @@
 📧 **Email:** nitin.arumbakam@gmail.com  
 📞 **Phone:** +1 437 441 8928  
 📍 **Location:** Windsor, ON, N9C 1W5  
-🔗 [**LinkedIn**](#) | [**GitHub**](#)
-
+🔗 [**LinkedIn**](www.linkedin.com/in/nithinarumbakam)
 ---
 
 ## 🛠 Skills
