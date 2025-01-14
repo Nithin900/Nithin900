@@ -56,6 +56,15 @@
   - Utilized machine learning algorithms and feature engineering to improve churn prediction accuracy by 15%.  
   - Visualized insights with Tableau, aiding decision-making and reducing churn rates by over 20% through targeted retention initiatives.  
 
+### **Graduate Employment Statistics Analysis**  
+*St. Clair College, ON, Canada | January 2024 – April 2024*  
+- **Objective:** Analyze graduate employment trends across Canada to understand the impact of education level, field of study, gender, and region on employment outcomes.  
+- **Key Activities:**  
+  - Explored variations in median employment income based on education qualification and geographic region.  
+  - Performed statistical analysis on gender and age group employment trends.  
+  - Developed interactive visualizations using Python (Matplotlib, Seaborn) and Tableau to represent employment data from 2010–2014.  
+- **Outcome:** Identified actionable insights for improving graduate employability, enabling data-driven policy decisions.
+
 ---
 
 ## 💼 Experience
