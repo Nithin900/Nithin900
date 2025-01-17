@@ -48,14 +48,6 @@
   - Performed data preprocessing, feature engineering, and hyperparameter tuning to enhance performance.  
   - Created visualizations using Matplotlib for cost breakdowns and plan comparisons, improving user decision-making.
 
-### **Customer Churn Prediction and Analysis**  
-*St. Clair College, ON, Canada | October 2024 – December 2024*  
-- **Problem:** High customer churn rates affecting revenue and retention strategies.  
-- **Solution:**  
-  - Implemented a Python-based churn prediction model using historical customer data.  
-  - Utilized machine learning algorithms and feature engineering to improve churn prediction accuracy by 15%.  
-  - Visualized insights with Tableau, aiding decision-making and reducing churn rates by over 20% through targeted retention initiatives.  
-
 ### **Graduate Employment Statistics Analysis**  
 *St. Clair College, ON, Canada | January 2024 – April 2024*  
 - **Objective:** Analyze graduate employment trends across Canada to understand the impact of education level, field of study, gender, and region on employment outcomes.  
@@ -64,6 +56,16 @@
   - Performed statistical analysis on gender and age group employment trends.  
   - Developed interactive visualizations using Python (Matplotlib, Seaborn) and Tableau to represent employment data from 2010–2014.  
 - **Outcome:** Identified actionable insights for improving graduate employability, enabling data-driven policy decisions.
+
+### **Customer Churn Prediction and Analysis**  
+*St. Clair College, ON, Canada | October 2024 – December 2024*  
+- **Problem:** High customer churn rates affecting revenue and retention strategies.  
+- **Solution:**  
+  - Implemented a Python-based churn prediction model using historical customer data.  
+  - Utilized machine learning algorithms and feature engineering to improve churn prediction accuracy by 15%.  
+  - Visualized insights with Tableau, aiding decision-making and reducing churn rates by over 20% through targeted retention initiatives.  
+
+
 
 ---
 
