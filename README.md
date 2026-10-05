@@ -9,7 +9,7 @@
 ## 🛠 Skills
 
 - **Programming Languages:** Python, SQL, Excel  
-- **Data Analysis Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+- **Data Analysis Libraries:** NumPy, Pandas, Matplotlib, Seaborn   
 - **Machine Learning:** Scikit-Learn, TensorFlow, Keras  
 - **Database Management:** MySQL, SQL Server  
 - **Data Visualization Tools:** Tableau, Power BI  
