@@ -1,6 +1,6 @@
 # Hi, I'm Nithin 👋
 
-**Java backend developer** · Spring Boot · Spring Security · Microservices
+**Java backend developer** · Spring Boot · Spring Security · Microservices<br>
 📍 Greater Toronto Area · Open to Java backend and application support roles
 
 I build secure, well-tested Spring services and like understanding *why* the framework behaves the way it does, from the filter chain down to the bean lifecycle.
@@ -43,9 +43,9 @@ Client ──Bearer JWT──► Gateway (A) :8080 ──token relay──► Pa
 
 ## 🛠 Tech
 
-**Backend:** Java (8–21) · Spring Boot · Spring Security · OAuth 2.0 / JWT · JPA / Hibernate · REST · Kafka
-**Data:** Oracle · MySQL · SQL Server · H2
-**Ops & debugging:** OpenShift · Kibana · JVM thread dumps · Maven · Git · GitHub Actions
+**Backend:** Java (8–21) · Spring Boot · Spring Security · OAuth 2.0 / JWT · JPA / Hibernate · REST · Kafka<br>
+**Data:** Oracle · MySQL · SQL Server · H2<br>
+**Ops & debugging:** OpenShift · Kibana · JVM thread dumps · Maven · Git · GitHub Actions<br>
 **Also:** Python · Pandas · scikit-learn · Tableau · Power BI
 
 ---
